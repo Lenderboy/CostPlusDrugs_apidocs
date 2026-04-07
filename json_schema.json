@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "auto_refill": true,
+      "brand_generic": "Generic",
+      "brand_name": "Epzicom",
+      "form": "Tablet",
+      "insurance_eligible": "Yes",
+      "medication_name": "Abacavir / Lamivudine",
+      "medispan_pack_size": "30",
+      "medispan_pack_size_units": "ea",
+      "medispan_quantity": "1",
+      "ndc": "42385096230",
+      "pill_nonpill": "Pill",
+      "slug": "abacavirlamivudine-600mg_300mg-tablet",
+      "special_handling": "",
+      "strength": "600mg-300mg",
+      "unit_billing_price": "$1.1075",
+      "unit_price": "$0.963",
+      "url": "https://www.costplusdrugs.com/medications/abacavirlamivudine-600mg_300mg-tablet/"
+    },
+    {
+    }
+  ]
+}
